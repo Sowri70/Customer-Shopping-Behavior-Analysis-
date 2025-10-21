@@ -89,8 +89,6 @@ Recommended data-driven strategies to improve profitability and customer targeti
 Clone the repository:
 
 git clone https://github.com/sowri70/Customer-Shopping-Behavior-Analysis-.git
-cd data-analysis-project
-
 
 Set up the environment:
 
