@@ -10,7 +10,7 @@ Source: (company data)
 
 Format: CSV
 
-Size: (e.g., 3,900 rows, 8 columns)
+Size: (e.g., 3,900 rows, 18 columns)
 
 Description:
 The dataset contains information such as sales, profit, product category, region, and customer segments. It is used to analyze trends, performance metrics, and identify improvement opportunities.
